@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(January 30, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Israel Torres)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment is about Version Control System, how to use Git to create a repository that can contain the full history of a project and how to use Github like a repository hosting service.)
+
+## View project:
+(https://israel11021989.github.io/lesson3_VersionControl/)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Version Control System.)
+2. (Git for Version Control.)
+3. (Repository Hosting Service Github.)
 

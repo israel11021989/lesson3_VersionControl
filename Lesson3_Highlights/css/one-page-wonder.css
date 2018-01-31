@@ -12,10 +12,12 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    background-image: url(images/header.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
     -o-background-size: cover;
 }
 
